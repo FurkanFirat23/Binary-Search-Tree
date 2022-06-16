@@ -1,4 +1,4 @@
-# Binary-Search-Tree-Projesi
+# Binary-Search-Tree-Project
 # patika dev profilim
 https://app.patika.dev/changbogo
 
